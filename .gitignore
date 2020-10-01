@@ -1,0 +1,93 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@nitendragautam 
+nitendragautam
+/
+LogAnalysisUsingHadoop
+1
+00
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+LogAnalysisUsingHadoop/.gitignore
+@nitendragautam
+nitendragautam Added GitIgnore File
+Latest commit 6811a5c on Jun 14, 2017
+ History
+ 1 contributor
+49 lines (37 sloc)  359 Bytes
+  
+# Mac
+*.DS_Store
+DS_Store
+
+# Scala Ignore files #
+
+.cache
+.class
+.classpath
+.DS_Store
+.history
+.idea
+.idea_modules
+.ivy2
+.project
+.settings
+bin
+conf/certs
+dist
+lib_managed
+logs
+project/boot
+project/project
+project/target
+release-notes
+src_managed
+target
+unversioned
+backup
+ 
+/*.conf
+/tmp
+ 
+
+
+# Compiled source #
+
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+*.iml
+
+
+
+
+
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
